@@ -1,0 +1,80 @@
+{
+  "common": {
+    "siteTitle": "在线 Emoji 合成工具",
+    "siteTagline": "几秒钟内把两个表情合成一个全新 Emoji。",
+    "nav": {
+      "home": "首页",
+      "faq": "常见问题",
+      "about": "关于",
+      "contact": "联系",
+      "privacy": "隐私政策",
+      "terms": "用户协议",
+      "sitemap": "网站地图"
+    },
+    "language": {
+      "en": "English",
+      "zh": "中文"
+    },
+    "actions": {
+      "tryNow": "立即体验",
+      "download": "下载 PNG",
+      "combine": "开始合成",
+      "learnMore": "了解更多"
+    },
+    "footer": {
+      "copyright": "版权所有。"
+    }
+  },
+  "home": {
+    "heroTitle": "在线 Emoji 合成器",
+    "heroSubtitle": "在浏览器中把两个表情合成一个全新图片。免费、快速、无登录。",
+    "heroCta": "开始合成",
+    "pickerTitle": "选择你的 Emoji",
+    "resultTitle": "你的新表情",
+    "recommendedTitle": "热门组合",
+    "featuresTitle": "为什么选择本 Emoji 合成工具？",
+    "featureFast": "完全在浏览器端即时合成，无需上传。",
+    "featureFree": "永久免费，无需注册登录。",
+    "featureDownload": "一键下载 PNG 图片。",
+    "seoBlockTitle": "SEO 关键词示例",
+    "seoBlockText": "如何合成 emoji,在线 emoji 合成,emoji 混合工具,免费 emoji 生成器,自定义表情,合成表情网站"
+  },
+  "faq": {
+    "title": "常见问题",
+    "q1": "这个工具是免费的吗？",
+    "a1": "是的，本工具完全免费使用，且所有处理都在本地浏览器中完成。",
+    "q2": "你们会保存我的表情或图片吗？",
+    "a2": "不会，我们不会上传或保存你的任何内容。",
+    "q3": "生成的表情可以商用吗？",
+    "a3": "请自行确认平台 Emoji 版权，本工具仅提供技术层面的合成功能。",
+    "q4": "手机上可以用吗？",
+    "a4": "可以，网站为响应式设计，支持手机、平板和电脑。"
+  },
+  "about": {
+    "title": "关于本 Emoji 合成工具",
+    "content": "本网站是一个纯前端实现的轻量级 Emoji 合成工具，通过浏览器技术将两个表情图合并成一张新图片，过程中不上传任何内容。"
+  },
+  "contact": {
+    "title": "联系",
+    "description": "如果你有建议或发现问题，欢迎通过邮箱联系我们。",
+    "emailLabel": "邮箱",
+    "emailValue": "xyh.wiki@gmail.com",
+    "name": "姓名",
+    "message": "留言内容",
+    "submit": "发送",
+    "success": "感谢你的反馈！本表单为演示用途，如需正式联系请直接发邮件。"
+  },
+  "legal": {
+    "privacyTitle": "隐私政策",
+    "privacyContent": "本工具完全在你的浏览器中运行，我们不会上传或存储你的文件。仅可能使用基础统计工具了解访问量。",
+    "termsTitle": "用户协议",
+    "termsContent": "使用本 Emoji 合成工具即表示你同意自行承担使用生成图片的相关责任，并遵守各平台的 Emoji 使用条款。"
+  },
+  "sitemap": {
+    "title": "网站地图"
+  },
+  "notFound": {
+    "title": "页面不存在",
+    "backHome": "返回首页"
+  }
+}

@@ -1,0 +1,26 @@
+/*
+ * @Author:XYH
+ * @Date:2025-11-23
+ * @Description: 全局主题变量定义，包括颜色、圆角和阴影等
+ */
+
+:root {
+  --color-bg: #f9fafb;
+  --color-bg-card: #ffffff;
+  --color-primary: #3b82f6;
+  --color-primary-dark: #2563eb;
+  --color-secondary: #8b5cf6;
+  --color-text: #111827;
+  --color-text-subtle: #6b7280;
+  --color-border: #e5e7eb;
+  --radius-lg: 12px;
+  --shadow-soft: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
+[data-theme="dark"] {
+  --color-bg: #0f172a;
+  --color-bg-card: #1e293b;
+  --color-text: #e5e7eb;
+  --color-text-subtle: #9ca3af;
+  --color-border: #374151;
+}

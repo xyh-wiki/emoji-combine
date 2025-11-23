@@ -1,0 +1,80 @@
+{
+  "common": {
+    "siteTitle": "Online Emoji Combiner",
+    "siteTagline": "Mix two emojis into a brand new one in seconds.",
+    "nav": {
+      "home": "Home",
+      "faq": "FAQ",
+      "about": "About",
+      "contact": "Contact",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "sitemap": "Sitemap"
+    },
+    "language": {
+      "en": "English",
+      "zh": "中文"
+    },
+    "actions": {
+      "tryNow": "Try now",
+      "download": "Download PNG",
+      "combine": "Combine",
+      "learnMore": "Learn more"
+    },
+    "footer": {
+      "copyright": "All rights reserved."
+    }
+  },
+  "home": {
+    "heroTitle": "Online Emoji Combiner",
+    "heroSubtitle": "Combine two emojis into a single custom image. Free, fast, and fun.",
+    "heroCta": "Start combining",
+    "pickerTitle": "Pick your emojis",
+    "resultTitle": "Your new emoji",
+    "recommendedTitle": "Popular combinations",
+    "featuresTitle": "Why use this emoji combiner?",
+    "featureFast": "Instant combining directly in your browser.",
+    "featureFree": "Free to use, no account, no login.",
+    "featureDownload": "One click to download PNG.",
+    "seoBlockTitle": "Emoji combiner keywords",
+    "seoBlockText": "how to combine emojis, emoji combiner online, free emoji mixer, emoji generator, mix emojis, create custom emoji"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "q1": "Is this emoji combiner free?",
+    "a1": "Yes, this tool is completely free to use and runs fully in your browser.",
+    "q2": "Do you store my emojis or images?",
+    "a2": "No, all processing happens on your device. We do not upload or store your content.",
+    "q3": "Can I use the generated emojis commercially?",
+    "a3": "Please check the emoji license of your platform. This tool only helps you combine emojis technically.",
+    "q4": "Does it work on mobile?",
+    "a4": "Yes, the site is fully responsive and works on phones, tablets and desktops."
+  },
+  "about": {
+    "title": "About this emoji combiner",
+    "content": "This site is a lightweight, front-end only emoji combiner. It mixes two emojis into a single image using browser technology without sending your data to any server."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "If you have suggestions or find bugs, feel free to reach out by email.",
+    "emailLabel": "Email",
+    "emailValue": "xyh.wiki@gmail.com",
+    "name": "Name",
+    "message": "Message",
+    "submit": "Send message",
+    "success": "Thanks! This is a demo contact form. Please send real feedback via email."
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "privacyContent": "This tool runs entirely in your browser. We do not upload your content to any server. Basic analytics may be used to understand traffic.",
+    "termsTitle": "Terms of Service",
+    "termsContent": "By using this emoji combiner, you agree to use the generated images at your own risk and follow the emoji license terms of your platform."
+  },
+  "sitemap": {
+    "title": "Sitemap"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "backHome": "Back to home"
+  }
+}
